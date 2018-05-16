@@ -19,6 +19,4 @@ To recreate the Python code, complete the following:
 
 ## Python Environment
 Python code in this repo utilizes packages that are not part of the common library. To make sure you have all of the 
-appropriate packages, please install [Anaconda](https://www.continuum.io/downloads), and install the environment 
-described in environment.yml (Instructions [here](http://conda.pydata.org/docs/using/envs.html), under *Use 
-environment from file*, and *Change environments (activate/deactivate)*). 
+appropriate packages, please install [Anaconda](https://www.continuum.io/downloads)
